@@ -13,5 +13,5 @@ crio o repositorio no github e copio os 2 comandos da segunda opção no https:
     git remote add origin https://github.com/Matheus199830/Projeto.git
     git push -u origin master
 
-sempre dou esses comandos pra subir as alterações
+git push para subir
 git diff mostra as alterações feitas aqui, assim como no github
