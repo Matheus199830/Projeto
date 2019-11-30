@@ -7,4 +7,4 @@ git add . para adicionar tudo oq tem na pasta
 git commit -m "nome" == isso marca um check point
 git config --global user.name ""
 
-teste mudança
+git log -> pra ver todos os commits que eu fiz
