@@ -15,3 +15,6 @@ crio o repositorio no github e copio os 2 comandos da segunda opção no https:
 
 git push para subir
 git diff mostra as alterações feitas aqui, assim como no github
+
+aqui, foi criado um repositorio pelo Danilo, copio a url no github dele e aqui no vs code
+eu aperto f1 e digito clone e coloco a url e escolho onde vai ser criada a pasta
