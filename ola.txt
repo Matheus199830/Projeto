@@ -1,0 +1,10 @@
+instalar git
+instalar vs code
+abro o vs code: crio uma pasta e dou um open folder no file
+no terminal digitar: git init
+git status 
+git add . para adicionar tudo oq tem na pasta
+git commit -m "nome" == isso marca um check point
+git config --global user.name ""
+
+teste mudança
